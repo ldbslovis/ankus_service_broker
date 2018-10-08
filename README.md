@@ -1,1 +1,0 @@
-# ankus_service_broker
